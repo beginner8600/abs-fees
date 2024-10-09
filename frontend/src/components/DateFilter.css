@@ -1,0 +1,29 @@
+/* frontend/components/DateFilter.css */
+
+.date-filter {
+    width: 250px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .date-filter h3 {
+    margin-top: 0;
+  }
+  
+  .date-filter ul {
+    list-style-type: none;
+    padding-left: 10px;
+  }
+  
+  .date-filter li {
+    margin: 5px 0;
+  }
+  
+  .date-filter span {
+    cursor: pointer;
+    color: #007bff;
+  }
+  
+  .date-filter span:hover {
+    text-decoration: underline;
+  }
+  
